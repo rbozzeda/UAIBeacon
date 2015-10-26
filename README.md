@@ -36,6 +36,10 @@ func BeaconManagerIBeaconsDetectedChanged(Beacons: [UAIBeacon])
 }
 ```
 
+API Access Token
+```swift
+ApiHelper.access_token = "95ac2da6a85c8ac3914fe22366380a27"
+```
 
 Get offers
 ```swift
